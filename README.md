@@ -1,5 +1,5 @@
 # Double-Click-Open-Miner With Log Files
-Create a one-click open miner for convenience.
+Create a double-click open miner for convenience. No more open terminal, all you need is notepad.
 
 The code also included a Log for every launch.
 
