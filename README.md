@@ -1,4 +1,4 @@
-# One-Click-Open-Miner With Log Files
+# Double-Click-Open-Miner With Log Files
 Create a one-click open miner for convenience.
 
 The code also included a Log for every launch.
