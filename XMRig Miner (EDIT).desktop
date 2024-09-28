@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=XMRig Miner
+Comment=Start XMRig Miner
+Exec=gnome-terminal -- bash -c "(path to xmrig)/config.sh; exec bash"
+Terminal=true
+Type=Application
+Icon=(Path to ICON if you have) 

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Kawpow Miner
+Comment=Start Kawpow Miner
+Exec=gnome-terminal -- bash -c "(path to miner)/start_mining.sh; exec bash"
+Terminal=true
+Type=Application
+Icon=(Path to ICON if ANY)
