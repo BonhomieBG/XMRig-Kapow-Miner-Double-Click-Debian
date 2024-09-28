@@ -33,3 +33,4 @@ Edit XMRig Miner.desktop by changing ***PATH*** and move the file to your Deskto
 Enable ***Apply executable as program*** in Properties of XMRig.desktop and config.sh.
 
 # You're good to go with double-clicking the desktop file. Happy mining!
+# I created this guide during my free time.
